@@ -122,7 +122,6 @@ TW_INCLUDE_FBE_METADATA_DECRYPT := false
 BOARD_USES_METADATA_PARTITION := true
 
 # TWRP specific build flags
-TW_DEVICE_VERSION := 1_UnbeyondTeam
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
 RECOVERY_SDCARD_ON_DATA := true
